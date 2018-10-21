@@ -1,4 +1,4 @@
-【版本名】1.0.1【版本名】
+【版本号】1.1【版本号】
 【版本】2【版本】
 【内容】1.添加在线检测更新【内容】
 【链接】https://raw.githubusercontent.com/CyanDragonStudio/APP/master/%E9%9D%92%E9%BE%99%E5%B7%A5%E4%BD%9C%E5%AE%A4.apk【链接】
